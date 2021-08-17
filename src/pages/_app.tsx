@@ -1,4 +1,5 @@
  // import App from 'next/app'
+ import "destyle.css"
  import "../styles/global-styles.scss"
 
  function MyApp({ Component, pageProps }) {
